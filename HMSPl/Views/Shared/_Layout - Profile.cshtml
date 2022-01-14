@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+    @*<style>
+
+        a:link {
+            color: white;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:visited {
+            color: white;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        ul {
+            width: 100%;
+            list-style-type: none;
+            padding: 0;
+            color: yellow;
+        }
+
+            ul li {
+                padding: 8px 16px;
+                border-bottom: 1px solid #ddd;
+                color: pink;
+            }
+
+
+                ul li:last-child {
+                    border-bottom: none
+                }
+    </style>*@
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-12" style="        background-color: #4fa6d3;
+        border: 1px solid;
+        color: white;
+        height: 80px">
+            <div class="row">
+                <div class="col-sm-7"></div>
+                <div class="col-sm-2" style="color:white;">
+                    <p>
+                        Support 9Am To 9Pm
+                    </p>
+                    <img src="~/Images/smartphone.png" style="width:20px;height:20px" />8106239888
+                </div>
+
+
+                <div class="col-sm-1"><img src="~/Images/notification.png" style="width:30px;height:30px" /></div>
+                <div class="col-sm-1"><img src="~/Images/settings.png" style="width:30px;height:30px" /></div>
+                <div class="col-sm-1"><a>@Html.ActionLink("Login","Login")<img src="~/Images/login.png" style="width:30px;height:30px" /></a></div>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-2" style="        background-color: #4fa6d3;
+        color: white;
+">
+            <div class="list-group">
+
+                <a class="list-group-item" href="#">Dashboard</a>
+                <a class="list-group-item" href="#">users</a>
+                <a class="list-group-item" href="#">Profile</a>
+                <a class="list-group-item" href="#">Admin</a>
+                <a class="list-group-item" href="#">Accounts</a>
+                <a class="list-group-item" href="#">Branch</a>
+                <a class="list-group-item" href="#">Orders</a>
+                <a class="list-group-item" href="#">Reminders</a>
+            </div>
+        </div>
+        <div class="col-sm-10">
+        </div>
+    </div>
+
+    @RenderBody()
+
+    <footer>
+        <p style="text-align:center">&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+    </footer>
+
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

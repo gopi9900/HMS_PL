@@ -1,0 +1,160 @@
+D:\HMS PROJECT\HMSSol\HMSPl\bin\HMSPl.dll.config
+D:\HMS PROJECT\HMSSol\HMSPl\bin\HMSPl.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\HMSPl.pdb
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\csc.exe
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\csc.exe.config
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\csc.rsp
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\csi.exe
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\csi.exe.config
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\csi.rsp
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.AppContext.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Collections.Immutable.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Console.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Globalization.Calendars.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.IO.Compression.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.IO.FileSystem.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Net.Http.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Net.Sockets.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Reflection.Metadata.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.ValueTuple.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Xml.XPath.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\vbc.exe
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\vbc.exe.config
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\vbc.rsp
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\VBCSCompiler.exe
+D:\HMS PROJECT\HMSSol\HMSPl\bin\roslyn\VBCSCompiler.exe.config
+D:\HMS PROJECT\HMSSol\HMSPl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\Microsoft.Web.Infrastructure.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\Newtonsoft.Json.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Net.Http.Formatting.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Helpers.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Http.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Http.WebHost.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Mvc.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Razor.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Webpages.Deployment.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Webpages.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Webpages.Razor.dll
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Razor.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Webpages.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Webpages.Deployment.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Webpages.Razor.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Helpers.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Mvc.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\Newtonsoft.Json.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Net.Http.Formatting.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Http.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\System.Web.Http.WebHost.xml
+D:\HMS PROJECT\HMSSol\HMSPl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HMS PROJECT\HMSSol\HMSPl\obj\Debug\HMSPl.csprojAssemblyReference.cache
+D:\HMS PROJECT\HMSSol\HMSPl\obj\Debug\HMSPl.csproj.CoreCompileInputs.cache
+D:\HMS PROJECT\HMSSol\HMSPl\obj\Debug\HMSPl.csproj.CopyComplete
+D:\HMS PROJECT\HMSSol\HMSPl\obj\Debug\HMSPl.dll
+D:\HMS PROJECT\HMSSol\HMSPl\obj\Debug\HMSPl.pdb
+C:\HMSSol\HMSPl\bin\HMSPl.dll.config
+C:\HMSSol\HMSPl\bin\HMSPl.dll
+C:\HMSSol\HMSPl\bin\HMSPl.pdb
+C:\HMSSol\HMSPl\bin\roslyn\csc.exe
+C:\HMSSol\HMSPl\bin\roslyn\csc.exe.config
+C:\HMSSol\HMSPl\bin\roslyn\csc.rsp
+C:\HMSSol\HMSPl\bin\roslyn\csi.exe
+C:\HMSSol\HMSPl\bin\roslyn\csi.exe.config
+C:\HMSSol\HMSPl\bin\roslyn\csi.rsp
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HMSSol\HMSPl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.AppContext.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Collections.Immutable.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Console.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Globalization.Calendars.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.IO.Compression.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.IO.FileSystem.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Net.Http.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Net.Sockets.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Reflection.Metadata.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.ValueTuple.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Xml.XPath.dll
+C:\HMSSol\HMSPl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HMSSol\HMSPl\bin\roslyn\vbc.exe
+C:\HMSSol\HMSPl\bin\roslyn\vbc.exe.config
+C:\HMSSol\HMSPl\bin\roslyn\vbc.rsp
+C:\HMSSol\HMSPl\bin\roslyn\VBCSCompiler.exe
+C:\HMSSol\HMSPl\bin\roslyn\VBCSCompiler.exe.config
+C:\HMSSol\HMSPl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HMSSol\HMSPl\bin\Microsoft.Web.Infrastructure.dll
+C:\HMSSol\HMSPl\bin\Newtonsoft.Json.dll
+C:\HMSSol\HMSPl\bin\System.Net.Http.Formatting.dll
+C:\HMSSol\HMSPl\bin\System.Web.Helpers.dll
+C:\HMSSol\HMSPl\bin\System.Web.Http.dll
+C:\HMSSol\HMSPl\bin\System.Web.Http.WebHost.dll
+C:\HMSSol\HMSPl\bin\System.Web.Mvc.dll
+C:\HMSSol\HMSPl\bin\System.Web.Razor.dll
+C:\HMSSol\HMSPl\bin\System.Web.Webpages.Deployment.dll
+C:\HMSSol\HMSPl\bin\System.Web.Webpages.dll
+C:\HMSSol\HMSPl\bin\System.Web.Webpages.Razor.dll
+C:\HMSSol\HMSPl\bin\System.Web.Razor.xml
+C:\HMSSol\HMSPl\bin\System.Web.Webpages.xml
+C:\HMSSol\HMSPl\bin\System.Web.Webpages.Deployment.xml
+C:\HMSSol\HMSPl\bin\System.Web.Webpages.Razor.xml
+C:\HMSSol\HMSPl\bin\System.Web.Helpers.xml
+C:\HMSSol\HMSPl\bin\System.Web.Mvc.xml
+C:\HMSSol\HMSPl\bin\Newtonsoft.Json.xml
+C:\HMSSol\HMSPl\bin\System.Net.Http.Formatting.xml
+C:\HMSSol\HMSPl\bin\System.Web.Http.xml
+C:\HMSSol\HMSPl\bin\System.Web.Http.WebHost.xml
+C:\HMSSol\HMSPl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HMSSol\HMSPl\obj\Debug\HMSPl.csprojAssemblyReference.cache
+C:\HMSSol\HMSPl\obj\Debug\HMSPl.csproj.CoreCompileInputs.cache
+C:\HMSSol\HMSPl\obj\Debug\HMSPl.csproj.CopyComplete
+C:\HMSSol\HMSPl\obj\Debug\HMSPl.dll
+C:\HMSSol\HMSPl\obj\Debug\HMSPl.pdb
